@@ -1,6 +1,6 @@
-**DSA problems**
+# DSA problems
 
-Steps to run the solution:
+## Steps to run the solution:
 
 1. Clone the repo by running 
 
